@@ -1,6 +1,8 @@
 <a name="welcome-section"></a>
 <h1 style="text-align: center;"> Welcome 👨🏾‍🚀 </h1>
 
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 [![](https://img.shields.io/github/stars/eduvieowen?style=flat&logo=github&color=white&label=Stars)](https://github.com/eduvieowen?)
 ![](https://img.shields.io/github/followers/eduvieowen?style=flat&label=Followers&color=white)
 [![](https://visitcount.itsvg.in/api?id=eduvieowen&icon=6&color=12)](https://visitcount.itsvg.in)
@@ -116,15 +118,20 @@
 </br>
 
 <a name="memes-corner-section"></a>
-## 🤣 Memes Corner:
+## Mêmes Corneur🧸:
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 </br>
 
 <a name="connect-section"></a>
-##  Connect with Me
+## Connect with Me
 
-* [🐦‍⬛ Twitter - eduvieowen](https://twitter.com/eduvieowen)
-* [👔 LinkedIn - eduvieowen](https://www.linkedin.com/in/eduvieowen)
-* [👨🏾‍🦱 Portflio Website](https://https://eduvieowen.vercel.app/)
+* [‍⬛ Twitter - eduvieowen](https://twitter.com/eduvieowen)
+* [ LinkedIn - eduvieowen](https://www.linkedin.com/in/eduvieowen)
+* [‍ Portflio Website](https://eduvieowen.vercel.app/)
+
+</br>
+
+       This readme is your first line of defense against the horror that is my codebase. Proceed with caution...🥷🏾
+
