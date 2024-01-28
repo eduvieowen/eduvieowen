@@ -1,6 +1,5 @@
-<h1 style="text-align: center;"> Welcome 👨🏾‍🚀 </h1>
-
 <a name="welcome-section"></a>
+<h1 style="text-align: center;"> Welcome 👨🏾‍🚀 </h1>
 
 [![](https://img.shields.io/github/stars/eduvieowen?style=flat&logo=github&color=white&label=Stars)](https://github.com/eduvieowen?)
 ![](https://img.shields.io/github/followers/eduvieowen?style=flat&label=Followers&color=white)
@@ -20,15 +19,15 @@
 
 </br>
 
-## [Ed](https://github.com/eduvieowen) - Code Cowboy at the Edge of Tomorrow 
 <a name="hi-section"></a>
+## [Ed](https://github.com/eduvieowen) - Code Cowboy at the Edge of Tomorrow 
 
 > Greetings fellow interstellar travelers! Welcome to my GitHub profile, where code meets creativity and the future unfolds faster than a DeLorean on plutonium. I'm Ed, a digital maverick wrangling bits and bytes like a cybernetic rodeo champ, feel free to peruse the cinematic highlights of my victorious conquests :D and tail-tucking failures :/ 
 
  </br>
 
-## ⚡️ My Stellar Stats:
 <a name="stats-section"></a>
+## ⚡️ My Stellar Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduvieowen&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eduvieowen&theme=chartreuse-dark&hide_border=true)
@@ -36,15 +35,15 @@
 
 </br>
 
-## 🏆 GitHub Trophies
 <a name="trophies-section"></a>
+## 🏆 GitHub Trophies
   
 ![](https://github-profile-trophy.vercel.app/?username=eduvieowen&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)  
 
 </br>
 
-## 🚀 Project Zone
 <a name="projects-section"></a>
+## 🚀 Project Zone
   
 **Project 1:**
 - Description
@@ -68,8 +67,8 @@
 
 </br>
 
-# 🧑🏾‍💻 Stack:
 <a name="stack-section"></a>
+# 🧑🏾‍💻 Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
@@ -106,8 +105,8 @@
 
 </br>
 
-### A GUIDE TO MY GITHUB REPOSITORY :D : 
 <a name="guide-section"></a>
+### A GUIDE TO MY GITHUB REPOSITORY :D : 
 
 * 🚀 - Personal Projects
 * ☄ - Third-Party Projects
@@ -116,15 +115,15 @@
 
 </br>
 
-## 🤣 Memes Corner:
 <a name="memes-corner-section"></a>
+## 🤣 Memes Corner:
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 </br>
 
-##  Connect with Me
 <a name="connect-section"></a>
+##  Connect with Me
 
 * [🐦‍⬛ Twitter - eduvieowen](https://twitter.com/eduvieowen)
 * [👔 LinkedIn - eduvieowen](https://www.linkedin.com/in/eduvieowen)
