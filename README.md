@@ -117,13 +117,6 @@
 
 </br>
 
-<a name="memes-corner-section"></a>
-## Mêmes Corneur🧸:
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-</br>
-
 <a name="connect-section"></a>
 ## Connect with Me
 
