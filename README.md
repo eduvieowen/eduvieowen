@@ -100,8 +100,12 @@
 
 # 🧸 Meme Corner
 <a name="meme-section"></a>
-<img src='https://randommeme-five.vercel.app/' style="height: 250px;"/>
-___
+
+<div align="center">
+  <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/> 
+</div>
+
+<br>
 
 <span align="center">
  
