@@ -1,11 +1,19 @@
 <a name="welcome-section"></a>
-<h1 style="text-align: center;"> Greetings 👨🏾‍🚀 </h1>
+<h1 align="center"> Greetings 👨🏾‍🚀 </h1>
 
-<img src='https://randommeme-five.vercel.app/' style="height: 250px;"/>
+        🫣⛔️ This README is your first line of defense against the horror that is my codebase. Proceed with caution ⛔️🫣
 
-[![](https://img.shields.io/github/stars/eduvieowen?style=flat&logo=github&color=white&label=Stars)](https://github.com/eduvieowen?)
-![](https://img.shields.io/github/followers/eduvieowen?style=flat&label=Followers&color=white)
-[![](https://visitcount.itsvg.in/api?id=eduvieowen&icon=6&color=12)](https://visitcount.itsvg.in)
+<span align="center">
+ 
+ [![](https://img.shields.io/badge/eduvieowen-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduvieowen)
+ [![](https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge)](https://eduvieowen.vercel.app)
+ [![](https://img.shields.io/badge/eduvieowen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/eduvieowen)
+ [![](https://img.shields.io/badge/eduvieowen-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/eduvieowen)
+ 
+ [![](https://visitcount.itsvg.in/api?id=eduvieowen&icon=6&color=12)](https://visitcount.itsvg.in)
+ [![](https://img.shields.io/github/stars/eduvieowen?style=flat&logo=github&color=white&label=Stars)](https://github.com/eduvieowen?)
+ 
+</span>
 
 ### A GUIDE TO MY GITHUB REPOSITORY :D : 
 
@@ -20,59 +28,37 @@
 2. [Hi!](#hi-section)
 3. [Stellar Stats](#stats-section)
 4. [GitHub Trophies](#trophies-section)
-5. [Projects Zone](#projects-section)
 6. [Tech Stack](#stack-section)
-7. [Connect with Me Section](#connect-section)
+7. [Meme Corner](#meme-section)
 
-</br>
+<br>
 
 <a name="hi-section"></a>
 ## [Ed](https://github.com/eduvieowen) - Code Cowboy at the Edge of Tomorrow 
 
 > Greetings fellow interstellar travelers! Welcome to my GitHub profile, where code meets creativity and the future unfolds faster than a DeLorean on plutonium. I'm Ed, a digital maverick wrangling bits and bytes like a cybernetic rodeo champ, feel free to peruse the cinematic highlights of my victorious conquests :D and tail-tucking failures :/ 
 
- </br>
+ <br>
 
 <a name="stats-section"></a>
 ## ⚡️ My Stellar Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduvieowen&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=eduvieowen&theme=chartreuse-dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=eduvieowen&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)
+<span align="center">
 
-</br>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduvieowen&theme=2077)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=eduvieowen&theme=chartreuse-dark&hide_border=true)
+ ![](https://github-readme-stats.vercel.app/api?username=eduvieowen&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)
+
+</span>
+
+<br>
 
 <a name="trophies-section"></a>
 ## 🏆 GitHub Trophies
   
 ![](https://github-profile-trophy.vercel.app/?username=eduvieowen&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)  
 
-</br>
-
-<a name="projects-section"></a>
-## 🚀 Project Zone
-  
-**Project 1:**
-- Description
-- Link: [https://github.com/eduvieowen/project-name]
-- ![Image or GIF of the project](insert_image_or_gif_link_here)
-
-**Project 2:**
-- Description
-- Link: [https://github.com/eduvieowen/project-name]
-- ![Image or GIF of the project](insert_image_or_gif_link_here)
-
-**Project 3:**
-- Description
-- Link: [https://github.com/eduvieowen/project-name]
-- ![Image or GIF of the project](insert_image_or_gif_link_here)
-
-**Project 4:**
-- Description
-- Link: [https://github.com/eduvieowen/project-name]
-- ![Image or GIF of the project](insert_image_or_gif_link_here)
-
-</br>
+<br>
 
 <a name="stack-section"></a>
 # 🧑🏾‍💻 Stack:
@@ -110,18 +96,15 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-</br>
+<br>
 
-[Back to Top](#welcome-section)
+# 🧸 Meme Corner
+<a name="meme-section"></a>
+<img src='https://randommeme-five.vercel.app/' style="height: 250px;"/>
+___
 
-<a name="connect-section"></a>
-## Connect with Me
-
-* [‍⬛ Twitter - eduvieowen](https://twitter.com/eduvieowen)
-* [ LinkedIn - eduvieowen](https://www.linkedin.com/in/eduvieowen)
-* [‍ Portflio Website](https://eduvieowen.vercel.app/)
-
-</br>
-
-       This readme is your first line of defense against the horror that is my codebase. Proceed with caution...🥷🏾
-
+<span align="center">
+ 
+ [Back to Top](#welcome-section)
+ 
+</span>
