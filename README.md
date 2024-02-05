@@ -1,11 +1,18 @@
 <a name="welcome-section"></a>
-<h1 style="text-align: center;"> Welcome 👨🏾‍🚀 </h1>
+<h1 style="text-align: center;"> Greetings 👨🏾‍🚀 </h1>
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 250px;"/>
 
 [![](https://img.shields.io/github/stars/eduvieowen?style=flat&logo=github&color=white&label=Stars)](https://github.com/eduvieowen?)
 ![](https://img.shields.io/github/followers/eduvieowen?style=flat&label=Followers&color=white)
 [![](https://visitcount.itsvg.in/api?id=eduvieowen&icon=6&color=12)](https://visitcount.itsvg.in)
+
+### A GUIDE TO MY GITHUB REPOSITORY :D : 
+
+* 🚀 - Personal Projects
+* ☄ - Third-Party Projects
+* 🤝🏾 - Collaborative Projects
+* 📝 - Templates
 
 ### Table of Contents
 
@@ -15,9 +22,7 @@
 4. [GitHub Trophies](#trophies-section)
 5. [Projects Zone](#projects-section)
 6. [Tech Stack](#stack-section)
-7. [Repository Guide](#guide-section)
-8. [Memes Corner Section](#memes-corner-section)
-9. [Connect with Me Section](#connect-section)
+7. [Connect with Me Section](#connect-section)
 
 </br>
 
@@ -107,15 +112,7 @@
 
 </br>
 
-<a name="guide-section"></a>
-### A GUIDE TO MY GITHUB REPOSITORY :D : 
-
-* 🚀 - Personal Projects
-* ☄ - Third-Party Projects
-* 🤝🏾 - Collaborative Projects
-* 📝 - Templates
-
-</br>
+[Back to Top](#welcome-section)
 
 <a name="connect-section"></a>
 ## Connect with Me
