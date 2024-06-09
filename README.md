@@ -29,14 +29,14 @@
 3. [Stellar Stats](#stats-section)
 4. [GitHub Trophies](#trophies-section)
 6. [Tech Stack](#stack-section)
-7. [Meme Corner](#meme-section)
 
 <br>
 
 <a name="hi-section"></a>
 ## Code Cowboy at the Edge of Tomorrow - [Ed](https://github.com/eduvieowen) 
 
-> Greetings fellow interstellar travelers! Welcome to my GitHub profile, where code meets creativity and the future unfolds faster than a DeLorean on plutonium. I'm Ed, a digital maverick wrangling bits and bytes like a cybernetic rodeo champ, feel free to peruse the cinematic highlights of my victorious conquests :D and tail-tucking failures :/ 
+> Greetings fellow interstellar travelers! Welcome to my GitHub profile, where code meets creativity and the future unfolds faster than a DeLorean on plutonium \
+> I'm Ed, a digital maverick wrangling bits and bytes like a cybernetic rodeo champ, feel free to peruse the cinematic highlights of my victorious conquests 🫡 and tail-tucking failures 🧎🏾 
 
  <br>
 
@@ -84,7 +84,6 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) 
 ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) 
@@ -95,15 +94,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
-<br>
-
-## 🧸 Meme Corner
-<a name="meme-section"></a>
-
-<div align="center">
-  <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/> 
-</div>
 
 <br>
 
