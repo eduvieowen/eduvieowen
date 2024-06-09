@@ -15,14 +15,14 @@
  
 </span>
 
-### A GUIDE TO MY GITHUB REPOSITORY :D : 
+## A GUIDE TO MY GITHUB REPOSITORY :D
 
 * 🚀 - Personal Projects
 * ☄ - Third-Party Projects
 * 🤝🏾 - Collaborative Projects
 * 📝 - Templates
 
-### Table of Contents
+## Table of Contents
 
 1. [Welcome](#welcome-section)
 2. [Hi!](#hi-section)
@@ -34,7 +34,7 @@
 <br>
 
 <a name="hi-section"></a>
-## [Ed](https://github.com/eduvieowen) - Code Cowboy at the Edge of Tomorrow 
+## Code Cowboy at the Edge of Tomorrow - [Ed](https://github.com/eduvieowen) 
 
 > Greetings fellow interstellar travelers! Welcome to my GitHub profile, where code meets creativity and the future unfolds faster than a DeLorean on plutonium. I'm Ed, a digital maverick wrangling bits and bytes like a cybernetic rodeo champ, feel free to peruse the cinematic highlights of my victorious conquests :D and tail-tucking failures :/ 
 
@@ -61,7 +61,7 @@
 <br>
 
 <a name="stack-section"></a>
-# 🧑🏾‍💻 Stack:
+## 🧑🏾‍💻 Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
@@ -98,7 +98,7 @@
 
 <br>
 
-# 🧸 Meme Corner
+## 🧸 Meme Corner
 <a name="meme-section"></a>
 
 <div align="center">
